@@ -1,0 +1,11 @@
+sentence-transformers>=2.2.2
+langchain>=0.1.0
+flask>=2.2.5
+pypdf>=3.10.0
+python-dotenv>=1.0.0
+pinecone-client[grpc]>=3.0.0
+langchain-pinecone>=0.0.1
+langchain-community>=0.0.8
+langchain-openai>=0.0.5
+langchain-experimental>=0.0.2
+-e .
